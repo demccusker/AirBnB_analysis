@@ -10,10 +10,10 @@ other questions I attemtped to answer but was unsucessful with. The second noteb
 
 ### Libraries Used: 
 The libraries used for this project include:
-pandas, version 2.2.0
-matplotlib, version 3.8.2
-seaborn, version 0.13.2
-scikitlearn, version 1.4
+> pandas, version 2.2.0
+> matplotlib, version 3.8.2
+> seaborn, version 0.13.2
+> scikitlearn, version 1.4
 
 ### Conclusions:
 The conclusions I found show that if you’re looking to buy something to list a new property on AirBNB, buy it in Pike-Market if you want to maximize your average price per night. However, there are opportunities in 
